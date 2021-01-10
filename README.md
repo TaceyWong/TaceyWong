@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Seeking / 求索 / Chasing</h3>
+<p align="center">
+    I am Tacey Wong,a coder.
+</p>
+ 
 
-<!--
-**TaceyWong/TaceyWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [caesar](http://github.com/TaceyWong/caesar) & [ctools](http://github.con/TaceyWong/ctools)
+- 🌱 I’m currently learning system-programming & system-design
+- 👯 I’m looking to collaborate on ctools
+- 📫 How to reach me: [我的邮箱](mailto:xinyong.wang@qq.com)
+- ⚡ Fun fact: I am more interested in social sciences
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TaceyWong's github stats](https://github-readme-stats.vercel.app/api?username=TaceyWong)
