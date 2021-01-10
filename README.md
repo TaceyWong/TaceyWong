@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I am more interested in social sciences
 
 ![TaceyWong's github stats](https://github-readme-stats.vercel.app/api?username=TaceyWong&show_icons=true)
-![TaceyWong's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaceyWong&show_icons=true)
+![TaceyWong's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaceyWong&show_icons=true&hide=css,html)
 
